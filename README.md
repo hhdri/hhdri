@@ -2,8 +2,6 @@
 
 I'm a machine learning engineer at Picnic, based in Amsterdam. Outside of work, I enjoy systems programming in Rust and writing about math and statistics on [majid.blog](https://majid.blog).
 
-Currently building SQLite from scratch in Rust.
-
 ### Projects
 
 - [codecrafters-sqlite-rust](https://github.com/hhdri/codecrafters-sqlite-rust) (2026) – A barebones SQLite implementation in Rust for the CodeCrafters "Build Your Own SQLite" challenge. Zero dependencies: SQL parsing, B-tree traversal, and record decoding are all implemented from scratch against the official SQLite file format spec.
