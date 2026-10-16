@@ -1,4 +1,4 @@
-ML engineer at [Picnic](https://picnic.app) in Amsterdam. Currently working on LLM inference performance on NVIDIA GPUs, in Rust and in [tinygrad](https://github.com/tinygrad/tinygrad).
+ML engineer at [Picnic](https://picnic.app) in Amsterdam.
 
 - [The Bitter Lesson, Sweet Results: How We Rebuilt Picnic's Recipe Recommender](https://medium.com/picnic-engineering/the-bitter-lesson-sweet-results-how-we-rebuilt-picnics-recipe-recommender-8019761249fb) (Picnic Engineering, 2026)
 - [agglo](https://github.com/hhdri/agglo): fast agglomerative clustering in Rust
